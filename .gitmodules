@@ -1,0 +1,3 @@
+[submodule "tools/state-locking"]
+	path = tools/state-locking
+	url = git@github.com:tomroffe/aws-tf-state-mgmt.git
